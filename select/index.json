@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "祝杯",
   "base_artist": "だてぃが",
-  "createdAt": "2026-03-22T10:37:29.171288Z",
+  "createdAt": "2026-03-22T12:13:40.548314Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "だてぃが",
       "has_synced": false,
       "path": "select/pl_01_祝杯_だてぃが.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "祝杯",
+      "artist": "だてぃが",
+      "has_synced": false,
+      "path": "select/localdb_01_祝杯_だてぃが.txt",
+      "repo_name": "-ukgKLZLOX8"
     }
   ]
 }
